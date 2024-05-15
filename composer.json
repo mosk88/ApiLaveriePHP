@@ -1,0 +1,19 @@
+{
+    "name": "mosk/api-laverie-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Titah Mostafa",
+            "email": "etitah-stagiaire@humanbooster.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^7.0"
+    }
+}
